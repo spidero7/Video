@@ -7,6 +7,5 @@ btn.addEventListener('click', function() {
         video.pause();
     } else {
         btn.classList.remove('slide');
-        video.play();
     }
 });
